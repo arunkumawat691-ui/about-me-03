@@ -1,0 +1,34 @@
+body{
+	background-color:lightgray;
+	color:solid black;
+	text-align:center;
+}
+div{
+	width: 400px;
+	height: 250px;
+	background: white;
+	border: 2px lightblue;
+	padding: 20px;
+	margin: 50px auto;
+	box-sizing: border-box;
+}
+section{
+	image-align:left;
+	background: black;
+	color: white;
+	border: 2px white
+
+	
+h2{
+	color: darkblue;
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+a{
+	background: black;
+	color: white;
+	border: 2px white
+}
+	
